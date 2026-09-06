@@ -4,13 +4,13 @@ export default function Home() {
       <header className="border-b border-slate-800">
         <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-5">
           <p className="text-xl font-black tracking-wide text-amber-400">
-            KNIGHT ELECTRIC
+            POWER ELECTRIC
           </p>
           <a
             className="rounded-md bg-amber-400 px-4 py-2 text-sm font-bold text-slate-950"
-            href="tel:+15618581506"
+            href="tel:+15555555555"
           >
-            Call (561) 858-1506
+            Call (555) 555-5555
           </a>
         </div>
       </header>
@@ -24,13 +24,13 @@ export default function Home() {
             Power you can count on.
           </h1>
           <p className="mt-6 max-w-xl text-lg leading-8 text-slate-300">
-            Knight Electric delivers dependable residential and commercial
+            Power Electric delivers dependable residential and commercial
             electrical work, from quick repairs to complete upgrades.
           </p>
           <div className="mt-8 flex flex-wrap gap-4">
             <a
               className="rounded-md bg-amber-400 px-6 py-3 font-bold text-slate-950"
-              href="tel:+15618581506"
+              href="tel:+15555555555"
             >
               Request Service
             </a>
@@ -79,12 +79,12 @@ export default function Home() {
         <p className="text-sm font-bold tracking-widest text-amber-400">
           NEED AN ELECTRICIAN?
         </p>
-        <h2 className="mt-3 text-3xl font-black">Call Knight Electric today.</h2>
+        <h2 className="mt-3 text-3xl font-black">Call Power Electric today.</h2>
         <a
           className="mt-7 inline-block rounded-md bg-amber-400 px-6 py-3 font-bold text-slate-950"
-          href="tel:+15618581506"
+          href="tel:+15555555555"
         >
-          (561) 858-1506
+          (555) 555-5555
         </a>
       </section>
     </main>
