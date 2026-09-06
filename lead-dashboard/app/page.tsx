@@ -8,9 +8,9 @@ export default function Home() {
           </p>
           <a
             className="rounded-md bg-amber-400 px-4 py-2 text-sm font-bold text-slate-950"
-            href="tel:+15555555555"
+            href="tel:+15618581506"
           >
-            Call (555) 555-5555
+            Call (561) 858-1506
           </a>
         </div>
       </header>
@@ -30,7 +30,7 @@ export default function Home() {
           <div className="mt-8 flex flex-wrap gap-4">
             <a
               className="rounded-md bg-amber-400 px-6 py-3 font-bold text-slate-950"
-              href="tel:+15555555555"
+              href="tel:+15618581506"
             >
               Request Service
             </a>
@@ -82,9 +82,9 @@ export default function Home() {
         <h2 className="mt-3 text-3xl font-black">Call Knight Electric today.</h2>
         <a
           className="mt-7 inline-block rounded-md bg-amber-400 px-6 py-3 font-bold text-slate-950"
-          href="tel:+15555555555"
+          href="tel:+15618581506"
         >
-          (555) 555-5555
+          (561) 858-1506
         </a>
       </section>
     </main>
